@@ -1,0 +1,25 @@
+ALGORITMA MENENTUKAN GANJIL&GENAP
+ -INISIASI
+1.Tentukan Angka
+ -PROSES
+2.Ketika angka di bagi 2 tersisa
+  0 maka angka tersebut Genap 
+  jika tersisa maka angka tersebut 
+  adalah Ganjil
+ -OUTPUT
+3.Cetak Angka
+
+ALGORITMA MENGHITUNG LUAS LINGKARAN
+ -INISIASI
+1.Jari jari didalam lingkaran cm
+2.Luas dalam Lingkaran dalam cm²
+3.Pi adalah 3.14
+ -PROSES
+4.Menghitung luar = pi x jari-jari x jari-jari
+ -OUTPUT
+5.Tampilkan Luar
+
+ALGORITMA SEMSETER MAHASISWA BERDASARKAN
+TAHUN MASUK
+ -INISIASI
+1.
