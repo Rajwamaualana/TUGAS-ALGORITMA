@@ -1,0 +1,11 @@
+INISIASI
+1.Tahun masuk
+2.Tahun sekarang
+3.Jumlah semester dalam setahun adalah 2
+PROSES
+4.Menghitung total tahun yang telah berlalu sejak mahasiswa masuk tahun berlalu = tahun sekarang - tahun masuk
+5.menghitung semester berdasarkan tahun yang telah berlalu jika bulan sekarang >=8 
+6.Jika sudah lewat bulan Agustus , maka sudah memasuki semester ganjil tahun baru
+OUTPUT
+7.Semester = tahun berlalu * 2+1 
+8.Semester = tahun berlalu * 2
