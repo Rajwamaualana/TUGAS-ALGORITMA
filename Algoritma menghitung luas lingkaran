@@ -1,0 +1,9 @@
+ALGORITMA MENGHITUNG LUAS LINGKARAN
+ -INISIASI
+1.Jari jari didalam lingkaran cm
+2.Luas dalam Lingkaran dalam cm²
+3.Pi adalah 3.14
+ -PROSES
+4.Menghitung luar = pi x jari-jari x jari-jari
+ -OUTPUT
+5.Tampilkan Luar
